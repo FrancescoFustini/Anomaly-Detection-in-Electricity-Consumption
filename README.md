@@ -21,6 +21,7 @@ L’intero studio è svolto utilizzando il programma *R* (versione 4.0.4).}
 
 ## Team
 
-- Arianna Pera
+- Arianna Pera <a href = "https://www.linkedin.com/in/arianna-pera-340811195/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a><a href = "https://github.com/ariannap13"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/github.png" width = "2%"></a>
 - Laura Rapino
 - Francesco Fustini <a href = "https://www.linkedin.com/in/francesco-fustini-3158b115a/"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/linkedin.png" width = "2%"></a><a href = "https://github.com/FrancescoFustini"><img src="https://github.com/albi9702/Kobe-Vs-Machine-Learning/blob/master/Immagini/github.png" width = "2%"></a>
+
