@@ -4,7 +4,7 @@
 
 # Anomaly Detection in Electricity Consumption
 
-##### Progetto per l'esame di Streaming Data Science Lab del corso di laurea magistrale in Data Science all'università UniMiB
+##### Progetto per l'esame di Streaming Data Science Lab del corso di laurea magistrale in Data Science all'Università di Milano-Bicocca
 
 ## Abstract 
 
